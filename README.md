@@ -3,4 +3,4 @@
 > 登录
 > 管理博客
 > 发布博客
-> <img src='https://imgtu.com/i/XnMHqx'>
+> <img src='https://github.com/ashin98/Imgs/blob/main/images/1.jpg'>
